@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Libro>
+    <Id>0</Id>
+    <Titulo>Cien años de vida</Titulo>
+    <Autor>Gabriel García Márquez</Autor>
+    <AnioPublicacion>1967</AnioPublicacion>
+  </Libro>
+  <Libro>
+    <Id>1</Id>
+    <Titulo>Abeja Voladora</Titulo>
+    <Autor>Gabriela Zoto</Autor>
+    <AnioPublicacion>2013</AnioPublicacion>
+  </Libro>
+  <Libro>
+    <Id>0</Id>
+    <Titulo>Cien años de vida</Titulo>
+    <Autor>Gabriel García Márquez</Autor>
+    <AnioPublicacion>1969</AnioPublicacion>
+  </Libro>
+  <Libro>
+    <Id>0</Id>
+    <Titulo>El principe azul</Titulo>
+    <Autor>Gabriela Lopez</Autor>
+    <AnioPublicacion>2000</AnioPublicacion>
+  </Libro>
+  <Libro>
+    <Id>0</Id>
+    <Titulo>Gaviota</Titulo>
+    <Autor>Fusy Sala</Autor>
+    <AnioPublicacion>2015</AnioPublicacion>
+  </Libro>
+  <Libro>
+    <Id>0</Id>
+    <Titulo>La vaca lola</Titulo>
+    <Autor>Fusy Chanex</Autor>
+    <AnioPublicacion>2019</AnioPublicacion>
+  </Libro>
+</ArrayOfLibro>
